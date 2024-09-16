@@ -67,7 +67,7 @@ When I’m not coding, you might find me shooting some hoops, working on my ches
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=loganengle&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganengle&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
